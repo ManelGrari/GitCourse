@@ -1,9 +1,2 @@
 this is a new line
-<<<<<<< HEAD
 second line
-another thiird line
-and forth line
-and fifth line
-=======
-second line
->>>>>>> parent of 9d0f323... this is a test
