@@ -1,4 +1,7 @@
 initial commit
+<<<<<<< HEAD
 first commit
 second commit
 third commit
+=======
+>>>>>>> parent of e187743... first commit
