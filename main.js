@@ -1,3 +1,1 @@
-new line another time
-
-commit 
+commit;
